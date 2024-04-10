@@ -1,8 +1,4 @@
-'''
-	Libreria sqlite3 : pip install sqlite3 
-	Autor : Marco Jhoel Churata Torres.
-	Titulo : chat_bot_v1.1.py
-'''
+
 
 import sqlite3
 
